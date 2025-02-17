@@ -4,7 +4,7 @@ Setup Project:
 1. Pull the latest changes from the repository:
    - git pull
 2. Navigate to the frontend directory and install dependencies:
-  - cd fp_pawfectly_REA
+  - cd FP_REA_Pawfectly
   - npm install
 3. Start the frontend project:
   - npm start
