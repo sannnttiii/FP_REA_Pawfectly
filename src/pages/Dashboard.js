@@ -108,6 +108,13 @@ function Dashboard() {
           </div>
         </div>
       </section>
+
+      <footer className="bg-gray-600 text-white py-6">
+        <div className="container mx-auto text-center">
+          <p className="text-sm">Pawfectly. All rights reserved.</p>
+          <p className="text-sm mt-1">Created by Santi Trinitasjati</p>
+        </div>
+      </footer>
     </div>
   );
 }
